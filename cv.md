@@ -14,7 +14,7 @@ In 2017 graduated from Belarusian State Medical University. Personal traits and 
 ### Experience
 
 ### Languages:
-**English** - Upper-intermediate
-**Belarusian** - Native
-**Russian** - Native
-**Polish** - Basic
+-**English** - Upper-intermediate
+-**Belarusian** - Native
+-**Russian** - Native
+-**Polish** - Basic
