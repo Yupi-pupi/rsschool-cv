@@ -1,5 +1,5 @@
 # Paul Kalinin
-*Doctor, junior dev*
+Doctor, junior dev
 ****
 ### Contacts:
 - **Email:** kpv578@gmail.com
